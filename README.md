@@ -77,14 +77,3 @@ Feel free to fork this repository, make changes, and open pull requests. Contrib
 
 - Java Documentation for DatagramSocket and DatagramPacket classes.
 - Open-source community for making learning easy!
-
-```
-
-### How to Add This README:
-1. Create a file named `README.md` in your project root directory.
-2. Paste the above content into the `README.md` file.
-3. Save the file.
-
-This README covers the basic information, instructions, and project details. You can adjust the content as needed depending on the specifics of your project.
-
-Let me know if you need any modifications!
