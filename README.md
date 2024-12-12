@@ -1,5 +1,3 @@
-Here’s a sample **README.md** for your UDP client-server chat application:
-
 ```markdown
 # UDP Client-Server Chat Application
 
