@@ -1,4 +1,3 @@
-```markdown
 # UDP Client-Server Chat Application
 
 This is a simple UDP-based client-server chat application built in Java. The application demonstrates basic communication between a UDP client and a UDP server using datagram sockets. The server listens for messages from the client, processes them, and sends a modified response back to the client.
